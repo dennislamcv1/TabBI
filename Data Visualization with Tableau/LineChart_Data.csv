@@ -1,0 +1,85 @@
+﻿Month,Type of Delay,Delay in Minutes
+1/15/2023,Weather Delay,15193
+2/15/2023,Weather Delay,24203
+3/15/2023,Weather Delay,10634
+4/15/2023,Weather Delay,11095
+5/15/2023,Weather Delay,17264
+6/15/2023,Weather Delay,21913
+7/15/2023,Weather Delay,13001
+8/15/2023,Weather Delay,13339
+9/15/2023,Weather Delay,8879
+10/15/2023,Weather Delay,14892
+11/15/2023,Weather Delay,9828
+12/15/2023,Weather Delay,18465
+1/15/2023,Security Delay,504
+2/15/2023,Security Delay,324
+3/15/2023,Security Delay,331
+4/15/2023,Security Delay,99
+5/15/2023,Security Delay,281
+6/15/2023,Security Delay,564
+7/15/2023,Security Delay,326
+8/15/2023,Security Delay,469
+9/15/2023,Security Delay,287
+10/15/2023,Security Delay,7659
+11/15/2023,Security Delay,864
+12/15/2023,Security Delay,653
+1/15/2023,Late Aircraft Delay,114611
+2/15/2023,Late Aircraft Delay,116084
+3/15/2023,Late Aircraft Delay,111501
+4/15/2023,Late Aircraft Delay,86274
+5/15/2023,Late Aircraft Delay,106269
+6/15/2023,Late Aircraft Delay,161446
+7/15/2023,Late Aircraft Delay,144895
+8/15/2023,Late Aircraft Delay,121309
+9/15/2023,Late Aircraft Delay,60124
+10/15/2023,Late Aircraft Delay,7659
+11/15/2023,Late Aircraft Delay,74504
+12/15/2023,Late Aircraft Delay,134176
+1/15/2023,Departure Delay,235798
+2/15/2023,Departure Delay,258788
+3/15/2023,Departure Delay,238141
+4/15/2023,Departure Delay,183659
+5/15/2023,Departure Delay,231627
+6/15/2023,Departure Delay,360568
+7/15/2023,Departure Delay,302731
+8/15/2023,Departure Delay,259995
+9/15/2023,Departure Delay,114342
+10/15/2023,Departure Delay,111926
+11/15/2023,Departure Delay,163183
+12/15/2023,Departure Delay,300627
+1/15/2023,Arrival Delay,146562
+2/15/2023,Arrival Delay,179573
+3/15/2023,Arrival Delay,120317
+4/15/2023,Arrival Delay,68995
+5/15/2023,Arrival Delay,103168
+6/15/2023,Arrival Delay,248586
+7/15/2023,Arrival Delay,169002
+8/15/2023,Arrival Delay,120822
+9/15/2023,Arrival Delay,-17496
+10/15/2023,Arrival Delay,240859
+11/15/2023,Arrival Delay,22699
+12/15/2023,Arrival Delay,160289
+1/15/2023,Airline Delay,90781
+2/15/2023,Airline Delay,84834
+3/15/2023,Airline Delay,89216
+4/15/2023,Airline Delay,73741
+5/15/2023,Airline Delay,83805
+6/15/2023,Airline Delay,119651
+7/15/2023,Airline Delay,100370
+8/15/2023,Airline Delay,89072
+9/15/2023,Airline Delay,60477
+10/15/2023,Airline Delay,103940
+11/15/2023,Airline Delay,70798
+12/15/2023,Airline Delay,101429
+1/15/2023,Air System Delay,67442
+2/15/2023,Air System Delay,70342
+3/15/2023,Air System Delay,62733
+4/15/2023,Air System Delay,59125
+5/15/2023,Air System Delay,63987
+6/15/2023,Air System Delay,80794
+7/15/2023,Air System Delay,68578
+8/15/2023,Air System Delay,65548
+9/15/2023,Air System Delay,40673
+10/15/2023,Air System Delay,63448
+11/15/2023,Air System Delay,49295
+12/15/2023,Air System Delay,69420
